@@ -1,2 +1,0 @@
-This is a sample project
-This file is edited in the local repo
